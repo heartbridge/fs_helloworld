@@ -14,7 +14,7 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.heartbridge</groupId>
+            <groupId>com.github.heartbridge</groupId>
             <artifactId>xheart_fs</artifactId>
             <version>1.0.1</version>
         </dependency>

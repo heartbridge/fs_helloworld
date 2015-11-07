@@ -1,7 +1,7 @@
 package com.heartbridge.helloworld;
 
-import com.heartbridge.fs.annotation.Handler;
-import com.heartbridge.fs.annotation.RequestMapping;
+import com.github.heartbridge.fs.annotation.Handler;
+import com.github.heartbridge.fs.annotation.RequestMapping;
 
 /**
  * @author GavinCook
